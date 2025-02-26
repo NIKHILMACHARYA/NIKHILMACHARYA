@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hii 👋, I'm Nikhil M Acharya</h1>
-<h3 align="center">A passionate Android,Fullstack and Ui/Ux developer from India</h3>
+<h3 align="center">A passionate Android, Fullstack and Ui/Ux developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaXHcCZl5PFkY8tEX-sGJw3zjRXWCnaHIJ1Q&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilmacharya&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilmacharya" /> </p>
