@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/nikhil28acharya" target="blank"><img src="https://img.shields.io/twitter/follow/nikhil28acharya?logo=twitter&style=for-the-badge" alt="nikhil28acharya" /></a> </p>
 
-- 🌱 I�m currently learning **Java,Javascript,FullStack and Figma.**
+- 🌱 I�m currently learning **Java,DSA,Javascript,FullStack and Figma.**
 
-- 💬 Ask me about **Android,MEARN,UI/UX.**
+- 💬 Ask me about **Android,MEARN,UI/UX,Animation.**
 
 - 📫 How to reach me **nikhilmacharya@gmail.com**
 
